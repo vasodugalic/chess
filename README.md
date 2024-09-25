@@ -1,6 +1,6 @@
 # Chess GUI App
 
-This application is a simulation of a simple **chess app** in which two users can participate in chess game against each other via *graphical user interface* (GUI). Application was developed in **Scala** programming language with **simple build tool** (sbt) using **Swing** library. This is simple version, meaning the game ends when one of the two King pieces gets captured.
+This application is a simulation of a simple **chess app** in which two users can participate in chess game against each other via a *graphical user interface* (GUI). The application was developed in the **Scala** programming language with **Simple Build Tool** (sbt) using the **Swing** library. This is a simple version, meaning the game ends when one of the two King pieces gets captured.
 
 ## Features
 - Interactive GUI for playing chess.
