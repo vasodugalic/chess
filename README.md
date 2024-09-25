@@ -27,3 +27,8 @@ This application is a simulation of a simple **chess app** in which two users ca
    - This command starts the application and automatically recompiles if any changes are made.
 
 4. Play the game!
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE.txt file for details.
+
