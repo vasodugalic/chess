@@ -11,7 +11,7 @@ This application is a simulation of a simple **chess app** in which two users ca
 
 ## Technologies Used
 - Scala
-- Sbt 1.10.1
+- Sbt **1.10.1**
 - Swing Library
 
 ## Getting Started
